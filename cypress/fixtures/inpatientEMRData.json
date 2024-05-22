@@ -1,0 +1,276 @@
+{
+  "nurse": "Perawat Ony",
+  "earlyAssessment": {
+    "initialAssessment": {
+      "arrivedDate": "22",
+      "arrivedTime": [
+        14,
+        44
+      ],
+      "relation": "Saudara Kandung",
+      "clearName": "Mr. Jackie Block",
+      "entryMethod": "Menggunakan stretcher",
+      "originPoly": "umum"
+    },
+    "anamnesa": {
+      "presentHealtyHistory": "Facilis esse culpa architecto architecto.",
+      "pastHealtyHistory": "Facilis esse culpa architecto architecto.",
+      "isFamilyDisease": false,
+      "familyDisease": "Kanker",
+      "treatmentHistory": "Facilis esse culpa architecto architecto.",
+      "psychologyStatus": "Takut",
+      "allergyHistory": [
+        "Qoim",
+        "Ikan Pari",
+        "Fakta"
+      ]
+    },
+    "objectiveData": {
+      "sistolik": 93,
+      "diastolik": 73,
+      "pulse": 97,
+      "bb": 52,
+      "tb": 185,
+      "lp": 40,
+      "rr": 15,
+      "saturation": 95,
+      "temperature": 36,
+      "awareness": "Compos Mentis"
+    },
+    "painAssessment": {
+      "pain": 10,
+      "painFactor": "Gerakan",
+      "painFrequency": 0,
+      "painDuration": false,
+      "painLike": "Dipukul",
+      "painRadiation": true,
+      "severity": 1,
+      "desc": "Facilis esse culpa architecto architecto."
+    }
+  },
+  "neonatusAssessment": {
+    "information": {
+      "motherName": "000225",
+      "motherProfession": "Dynamic Tactics Orchestrator",
+      "statusG": 3,
+      "statusP": 10,
+      "statusA": 3,
+      "fatherName": "Irvin Goodwin DDS",
+      "fatherProfession": "Legacy Web Associate",
+      "birthDate": "22",
+      "birthTime": [
+        14,
+        44
+      ],
+      "bodyLenght": 53,
+      "birthType": "Cesarean",
+      "chestCircumference": 35,
+      "weight": 3569,
+      "headCircumference": 34
+    },
+    "physical": {
+      "eyeInfection": true,
+      "mouthSuctionReflex": true,
+      "mouthCyanoticLips": false,
+      "mouthHareLips": false,
+      "mouthPalatosic": true,
+      "limbMovement": true,
+      "limbPolydactyly": false,
+      "limbSyndactytl": false,
+      "otherAbnormalities": "Facilis esse culpa architecto architecto.",
+      "isOtherAbnormalities": false,
+      "chestRespiratoryFrequencyCheck": true,
+      "chestHeartRateCheck": false,
+      "bellyUmbilical": true,
+      "bellyProtrusion": false,
+      "sexBoyScrotum": true,
+      "sexBoyTesticles": true,
+      "sexBoyPenisHole": false,
+      "sexGirlVaginaHole": true,
+      "sexGirlUretraHole": true,
+      "anusHole": true,
+      "abnormalities": "Facilis esse culpa architecto architecto.",
+      "notePostScript": "Facilis esse culpa architecto architecto.",
+      "NotesBuilInNote": "Facilis esse culpa architecto architecto."
+    },
+    "apgar": [
+      [
+        "Biru Putih",
+        "0",
+        "Tidak Ada",
+        "Lemah",
+        "Tidak Ada"
+      ],
+      [
+        "Ujung-Ujung Putih",
+        "< 100",
+        "Meringis",
+        "Sedang",
+        "Baik"
+      ],
+      [
+        "Merah Jambu",
+        "> 100",
+        "Menangis",
+        "Baik",
+        "Baik"
+      ]
+    ]
+  },
+  "obsgynAssessment": {
+    "midwife": {
+      "socialandPeriod": {
+        "currentPregnancy": "Tidak Direncanakan dan Tidak Diterima",
+        "currentPregnancyFeeling": "Facilis esse culpa architecto architecto.",
+        "martialHistory": {
+          "status": "Cerai Mati",
+          "age": 37,
+          "duration": 1,
+          "abortus": 4,
+          "husbanAge": 45,
+          "totalChildren": 2
+        },
+        "intensity": false,
+        "firstPeriod": 0,
+        "periodCycle": 0,
+        "periodAmount": 1,
+        "dysmenorrhea": true
+      },
+      "laborHistory": {
+        "hpht": "22",
+        "firstFetalMovement": 1,
+        "totalFetalMovement": 10,
+        "complaints": "Facilis esse culpa architecto architecto.",
+        "ageYear": 25,
+        "ageMonth": 7,
+        "deadorAlive": false,
+        "bbl": 93,
+        "gender": "Tidak Ada",
+        "complications": "Facilis esse culpa architecto architecto.",
+        "currentConditions": "Facilis esse culpa architecto architecto.",
+        "helper": "Dokter",
+        "helperDesc": "Claudine",
+        "place": "Rumah"
+      },
+      "kbHistory": {
+        "isKB": true,
+        "kb": "MOP",
+        "familyDisease": "Facilis esse culpa architecto architecto.",
+        "surgeryDisease": "Facilis esse culpa architecto architecto.",
+        "dietBeforePregrant": "Facilis esse culpa architecto architecto.",
+        "dietAfterPregrant": "Facilis esse culpa architecto architecto.",
+        "isTT": false
+      },
+      "obstryHistory": {
+        "uterinePalpation": "Facilis esse culpa architecto architecto.",
+        "fundusUteriHeight": 8,
+        "place": "Facilis esse culpa architecto architecto.",
+        "fetalPresentation": "Shoulder/Transverse",
+        "fetalWeightEstimation": 536,
+        "isContraction": false
+      }
+    },
+    "labor": {
+      "laborHistory": {
+        "diagnosa": "Facilis esse culpa architecto architecto.",
+        "date": "22",
+        "time": [
+          14,
+          44
+        ],
+        "ageYear": 20,
+        "ageMonth": 3,
+        "deadorAlive": false,
+        "bbl": 44,
+        "complications": "Facilis esse culpa architecto architecto.",
+        "currentConditions": "Facilis esse culpa architecto architecto.",
+        "helper": "Bidan",
+        "helperDesc": "Facilis esse culpa architecto architecto.",
+        "place": "BPS",
+        "placeDesc": "Facilis esse culpa architecto architecto.",
+        "gender": "Perempuan"
+      },
+      "kbHistory": {
+        "isKB": true,
+        "kb": "Kondom",
+        "isMenarche": true,
+        "complaints": "Facilis esse culpa architecto architecto.",
+        "periodCycle": 5,
+        "periodDuration": 8,
+        "hpht": "22",
+        "uk": 3
+      },
+      "laborNote": {
+        "date": "22",
+        "time": [
+          14,
+          44
+        ],
+        "birthTwoToFour": "Facilis esse culpa architecto architecto.",
+        "therapy": "Facilis esse culpa architecto architecto.",
+        "therapypostpartum": "Facilis esse culpa architecto architecto."
+      }
+    }
+  },
+  "CPPT": {
+    "subjective": {
+      "anamnesis": "Facilis esse culpa architecto architecto."
+    },
+    "objective": {
+      "sistolik": 114,
+      "diastolik": 77,
+      "heartRate": 91,
+      "rr": 19,
+      "saturation": 90,
+      "temperature": 39,
+      "gds": 65,
+      "objectiveData": "Facilis esse culpa architecto architecto."
+    },
+    "assessment": {
+      "diagnose": "Ansietas",
+      "action": "Ciptakan suasana terapeutik untuk menumbuhkan kepercayaan",
+      "note": "Facilis esse culpa architecto architecto."
+    },
+    "PPA": {
+      "instruction": "Facilis esse culpa architecto architecto."
+    }
+  },
+  "medicalResume": {
+    "date": "22",
+    "time": "15:44",
+    "doctor": "Rahmat Budi Dermawan",
+    "room": "Mawar",
+    "lorem": "Facilis esse culpa architecto architecto.",
+    "icd10": "N44",
+    "icd9": "99.99",
+    "finishTypeName": "Merujuk",
+    "treatmentContinued": "Puskesmas"
+  },
+  "informedConsent": {
+    "doctor": "drg. Dudy",
+    "staffInformation": "drg. Dudy",
+    "staffExecutor": "drg. Dudy",
+    "informationReceiver": "Pembaca",
+    "diagnose": "K01.0",
+    "lorem": "Facilis esse culpa architecto architecto.",
+    "isWali": true,
+    "action": "Pemeriksaan Dokter Gigi",
+    "wali": "Pembaca",
+    "signerAs": "Ibu",
+    "signerAge": 95,
+    "familyName": "Nola",
+    "familyAs": "Ibu",
+    "staffCompanion": "drg. Dudy",
+    "patientAgreement": false,
+    "baseDiagnose": "Facilis esse culpa architecto architecto.",
+    "actionIndication": "Facilis esse culpa architecto architecto.",
+    "actionRisk": "Facilis esse culpa architecto architecto.",
+    "procedure": "Facilis esse culpa architecto architecto.",
+    "purpose": "Facilis esse culpa architecto architecto.",
+    "complication": "Facilis esse culpa architecto architecto.",
+    "prognosis": "Facilis esse culpa architecto architecto.",
+    "altRisk": "Facilis esse culpa architecto architecto.",
+    "cost": "Facilis esse culpa architecto architecto.",
+    "others": "Facilis esse culpa architecto architecto."
+  }
+}

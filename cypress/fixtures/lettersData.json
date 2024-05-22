@@ -1,0 +1,52 @@
+{
+  "doctor": "Ameera Syakira",
+  "diagnose": [
+    "K08.3",
+    "N44"
+  ],
+  "outpatientWarrant": {
+    "returnStatus": "Belum Sembuh",
+    "controlDate": "16",
+    "therapies": [
+      "Paracetamol",
+      "amoxicillin"
+    ],
+    "suggestions": [
+      "rawat jalan",
+      "kontrol dalam 5 hari"
+    ]
+  },
+  "inpatientWarrant": {
+    "guarantorType": "BPJS",
+    "caseType": "Bedah",
+    "serviceType": "Rehabilitatif"
+  },
+  "hospitalReferral": {
+    "referralPurpose": "khusus",
+    "specialist": "Gigi Endodonsi",
+    "specific": "Jiwa",
+    "therapy": "Paracetamol",
+    "suggestions": "rawat jalan"
+  },
+  "deadLetter": {
+    "date": "14",
+    "time": [
+      "10",
+      "20"
+    ],
+    "disease": "Menular"
+  },
+  "sickLetter": {
+    "endDate": "16"
+  },
+  "doctorLetter": {
+    "patientCondition": "Sakit",
+    "purpose": "libur kantor",
+    "siastole": 96,
+    "diastole": 50,
+    "pulse": 68,
+    "weight": 79,
+    "height": 150,
+    "respiration": 16
+  }
+}

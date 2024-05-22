@@ -1,0 +1,99 @@
+{
+  "nurse": {
+    "subjective": {
+      "anamnesis": [
+        "Mual",
+        "Pusing"
+      ],
+      "alergy": [
+        "ikan",
+        "amoxicilin",
+        "debu"
+      ],
+      "illness": [
+        "Tifus",
+        "Demam berdarah"
+      ],
+      "treatment": "opname",
+      "psychology": [
+        "Cemas",
+        "Takut",
+        "Marah",
+        "Sedih"
+      ],
+      "social": "aman",
+      "spiritual": "aman"
+    },
+    "objective": {
+      "sistolik": 69,
+      "diastolik": 74,
+      "pulse": 99,
+      "bb": 80,
+      "tb": 183,
+      "lp": 37,
+      "rr": 18,
+      "saturation": 95,
+      "temperature": 39,
+      "awareness": "Sopor"
+    },
+    "screeningAdult": {
+      "unplanned": 1,
+      "unplannedAmount": 3,
+      "foodIntake": false,
+      "seriousIllness": true,
+      "fallHistory": false,
+      "secondaryDiagnose": true,
+      "walker": 2,
+      "heparin": true,
+      "walk": 3,
+      "mentalStatus": true
+    },
+    "screeningChild": {
+      "isThin": false,
+      "isLossWeight": true,
+      "isHasCondition": true,
+      "isMalnutrition": true,
+      "diagnose": "Diagnosis Neurologi",
+      "cognitive": "Tidak Menyadari ",
+      "surgery": ">48 jam dan ",
+      "medicamentosa": "Penggunaan Multiple "
+    }
+  },
+  "doctor": {
+    "doctorAnamnesis": [
+      "Mual",
+      "Pusing",
+      "capek"
+    ],
+    "physical": "Hasil Pemeriksaan Normal",
+    "other": "Aman Normal",
+    "assessment": {
+      "mainDiagnose": "K08.3",
+      "mainDiagnoseInfo": "Aman Normal",
+      "secDiagnose": [
+        "K08.3",
+        "N44"
+      ],
+      "secDiagnoseInfo": "Hasil Pemeriksaan Normal",
+      "chronic": true,
+      "returnStatus": "Berobat Jalan",
+      "deathCause": "Retained placenta without haemorrhage"
+    },
+    "planning": {
+      "actions": [
+        "Rawat jalan",
+        "diskusi",
+        "konsultasi"
+      ],
+      "icd9": [
+        "00.10",
+        "00.03",
+        "00.83"
+      ],
+      "therapy": [
+        "Paracetamol",
+        "Dexamethasone"
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Automated20/02/2024561",
+  "barcode": "Barcode20/02/2024561",
+  "category": "Kendaraan",
+  "hpp": 47409,
+  "hna": 20,
+  "factory": "3M Occupational Health  KT",
+  "minStok": 0,
+  "isActive": true,
+  "isPackage": false,
+  "package": "Ampul",
+  "amount": 14,
+  "unit": "%",
+  "isSmalestUnit": false
+}

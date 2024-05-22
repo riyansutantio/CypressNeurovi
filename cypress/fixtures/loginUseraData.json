@@ -1,0 +1,18 @@
+[
+  {
+    "username": "admin",
+    "password": "admin123"
+  },
+  {
+    "username": "dokter01",
+    "password": "Neurovi123"
+  },
+  {
+    "username": "dokter03",
+    "password": "Neurovi123"
+  },
+  {
+    "username": "perawat02",
+    "password": "Neurovi123"
+  }
+]

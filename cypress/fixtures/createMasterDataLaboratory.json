@@ -1,0 +1,23 @@
+{
+  "service": {
+    "codeLIS": 2,
+    "category": "Laboratorium",
+    "parentService": "Pemeriksaan Faeces",
+    "margin": 10000
+  },
+  "name": "well-informed-physiology",
+  "unit": "Laboratorium",
+  "laboratory": {
+    "codeIHS": "Platelet",
+    "itemName": [
+      "card",
+      "application"
+    ],
+    "gender": 0,
+    "lowerLimit": 17,
+    "upperLimit": 50,
+    "limitType": "Tahun",
+    "normalValue": 0,
+    "method": "Injeksi"
+  }
+}
